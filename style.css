@@ -1,0 +1,13 @@
+body{
+    display:block;
+    margin-left: 350px;
+    margin-top: 50px;
+    font-size: 2rem;
+}
+.categories{
+    font-size: 2rem;;
+}
+li{
+    list-style: none;
+    margin-left: -35px;
+}
